@@ -1,0 +1,51 @@
+﻿qiskit\_ibm\_catalog.serverless.QiskitServerless
+================================================
+
+.. currentmodule:: qiskit_ibm_catalog.serverless
+
+.. autoclass:: QiskitServerless
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~QiskitServerless.__init__
+      ~QiskitServerless.backend
+      ~QiskitServerless.backends
+      ~QiskitServerless.events
+      ~QiskitServerless.file_delete
+      ~QiskitServerless.file_download
+      ~QiskitServerless.file_upload
+      ~QiskitServerless.files
+      ~QiskitServerless.get_job_by_id
+      ~QiskitServerless.job
+      ~QiskitServerless.jobs
+      ~QiskitServerless.least_busy
+      ~QiskitServerless.list
+      ~QiskitServerless.load
+      ~QiskitServerless.provider_file_delete
+      ~QiskitServerless.provider_file_download
+      ~QiskitServerless.provider_file_upload
+      ~QiskitServerless.provider_files
+      ~QiskitServerless.provider_jobs
+      ~QiskitServerless.runtime_jobs
+      ~QiskitServerless.runtime_sessions
+      ~QiskitServerless.save_account
+      ~QiskitServerless.upload
+      ~QiskitServerless.usage
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~QiskitServerless.PRE_FILTER_KEYWORD
+   
+   
